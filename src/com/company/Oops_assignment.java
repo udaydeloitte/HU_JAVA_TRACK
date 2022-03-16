@@ -1,8 +1,8 @@
 package com.company;
 import java.util.Scanner;
-public class Main {
+public class Oops_assignment {
 
-    public static void main(String[] args) {
+    public static void Main(String[] args) {
         AreaC a = new AreaC();
         Scanner r = new Scanner(System.in);
         System.out.print("Enter Radius: ");
@@ -23,7 +23,8 @@ public class Main {
         int base=r.nextInt();
 
         a.triangle(height,base);
-
+        Animal b= new Animal();
+        b.fun();
 
 	// write your code here
     }
