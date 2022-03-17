@@ -14,7 +14,7 @@ public class Anagram {
             System.out.println("True");
         }
         else{
-            System.out.println("False");
+            System.out.print("False");
         }
 
 
