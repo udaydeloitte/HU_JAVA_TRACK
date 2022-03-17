@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/CircleArea.iml" filepath="$PROJECT_DIR$/CircleArea.iml" />
       <module fileurl="file://$PROJECT_DIR$/mini_assignment3/mini_assignment3.iml" filepath="$PROJECT_DIR$/mini_assignment3/mini_assignment3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mini_assignment3/src/mini_assignment_4.iml" filepath="$PROJECT_DIR$/mini_assignment3/src/mini_assignment_4.iml" />
     </modules>
   </component>
 </project>
