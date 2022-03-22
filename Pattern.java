@@ -14,7 +14,7 @@ public class Pattern {
                 System.out.print("*");
             }
             System.out.println();
-
+            //cmnt
         }
         for (int i=val-1;i>=1;i--){
             for (int k=val;k>i;k--){
